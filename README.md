@@ -1,0 +1,2 @@
+# MNIST_DIGIT_RECOGNITION
+This project builds a simple Convolutional Neural Network (CNN) using TensorFlow to recognize handwritten digits from the MNIST dataset. It includes an interactive web interface powered by **Streamlit** where users can test the model on actual MNIST test images.  ---  ## 📌 Features 
